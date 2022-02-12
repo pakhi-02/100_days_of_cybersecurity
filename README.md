@@ -10,4 +10,5 @@
 # day7 - learned aboust bash 
 # day8 - linux commands
 # day9 - linux commands
-# day 10 -
+# day 10 - over the wire level 2,3
+# day 11 -
